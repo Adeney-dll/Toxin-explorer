@@ -1,0 +1,4 @@
+name,cid,formula,mol_weight,logp,h_donors,h_acceptors,tpsa,rings,rotatable_bonds,fraction_csp3
+tetrodotoxin,11174599,C11H17N3O8,319.27,-5.52,8,11,190.25,5,1,0.91
+batrachotoxin,6324647,C31H42N2O6,538.69,3.55,3,7,104.25,8,3,0.71
+saxitoxin,56947150,C10H17N7O4,299.29,-3.85,6,10,184.81,3,2,0.7
